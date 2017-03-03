@@ -51,5 +51,5 @@ One or more panes fill a window. Each pane can run its own command. A pane is wh
     "           new top/bottom (vertical) pane
     %           new left/right (horizontal) pane
     x           kill pane
-    o           rotate panes
+    o           rotate panes (holding CTRL)
     ;           last pane
